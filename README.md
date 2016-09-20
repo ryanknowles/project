@@ -18,7 +18,6 @@
 <hr>
 <h5> HEADER </h5>
 <br>
-<object width="420" height="315"data="http://www.youtube.com/embed/XGSy3_Czz8k"></object>
 <p><small> This text should be smaller than the others. </small></p>
 <p> Deletes can be very usefull when using HTML because it can show the edits made to a file. Am sample would be: I like <del>Apples</del> <ins>Oranges</ins> as a snack!</p>
 </body>
