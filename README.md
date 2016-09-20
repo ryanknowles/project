@@ -4,7 +4,6 @@
 <title> BEST WEBSITE </title>
 </head>
 <body>
-<embed width="2000" height="1000" src"https://www.youtube.com/v/5tqH-Un9SFU" type="application/x-shockwave-flash">
 <p><b> This is my HTML file with <em>ALL</em>the necessary terms. </b></p>
 <h1> This is all done using HTML. </h1>
 <p><u><i> <strong>This is</strong> the greatest website ever because I made it :).</i></u></p>
@@ -19,9 +18,7 @@
 <hr>
 <h5> HEADER </h5>
 <br>
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/XGSy3_Czz8k">
-</iframe>
+<embed width="2000" height="1000" src"https://www.youtube.com/v/5tqH-Un9SFU" type="application/x-shockwave-flash">
 <p><small> This text should be smaller than the others. </small></p>
 <p> Deletes can be very usefull when using HTML because it can show the edits made to a file. Am sample would be: I like <del>Apples</del> <ins>Oranges</ins> as a snack!</p>
 </body>
