@@ -22,5 +22,6 @@
 src="https://www.youtube.com/embed/XGSy3_Czz8k">
 </iframe>
 <p><small> This text should be smaller than the others. </small></p>
+<p> Deletes can be very usefull when using HTML because it can show the edits made to a file. Am sample would be: I like <del>Apples</del> <ins>Oranges</ins> as a snack!</p>
 </body>
 </html>
