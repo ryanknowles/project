@@ -3,7 +3,6 @@
 <title> BEST WEBSITE </title>
 </head>
 <body>
-<br><br><br><br><br><br><br><br>
 <iframe width="1080" height="720"src="https://www.youtube.com/embed/XGSy3_Czz8k">
 </iframe>
 <p><b> This is my HTML file with <em>ALL</em>the necessary terms. </b></p>
