@@ -1,12 +1,12 @@
 # project
 <html>
 <head>
+<title> BEST WEBSITE </title>
 </head>
 <body>
-<title> BEST WEBSITE </title>
 <p><b> This is my HTML file with <em>ALL</em>the necessary terms. </b></p>
 <h1> This is all done using HTML. </h1>
-<p><u><i> <strong>This is</strong> the greatest website ever because I made it :).</i></u></b></p>
+<p><u><i> <strong>This is</strong> the greatest website ever because I made it :).</i></u></p>
 <h2> Filling up some space. </h2>
 <p> HTML is used to create the basics of websites such as this text, titles and pictures. </p>
 <h3> Info: </h3>
