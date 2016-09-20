@@ -1,4 +1,5 @@
 # project
+<!DOCTYPE html>
 <html>
 <head>
 <title> BEST WEBSITE </title>
