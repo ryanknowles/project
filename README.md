@@ -1,8 +1,8 @@
 # project
 <html>
 <head>
-<title> BEST WEBSITE </title>
 </head>
+<title> BEST WEBSITE </title>
 <body>
 <p><b> This is my HTML file with <em>ALL</em>the necessary terms. </b></p>
 <h1> This is all done using HTML. </h1>
