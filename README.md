@@ -2,8 +2,8 @@
 <html>
 <head>
 </head>
-<title> BEST WEBSITE </title>
 <body>
+<title> BEST WEBSITE </title>
 <p><b> This is my HTML file with <em>ALL</em>the necessary terms. </b></p>
 <h1> This is all done using HTML. </h1>
 <p><u><i> <strong>This is</strong> the greatest website ever because I made it :).</i></u></b></p>
