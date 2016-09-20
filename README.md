@@ -3,9 +3,7 @@
 <title> BEST WEBSITE </title>
 </head>
 <body>
-[![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
-<iframe width="1080" height="720"src="https://www.youtube.com/embed/XGSy3_Czz8k">
-</iframe>
+[![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://https://youtu.be/8F9jXYOH2c0)
 <p><b> This is my HTML file with <em>ALL</em>the necessary terms. </b></p>
 <h1> This is all done using HTML. </h1>
 <p><u><i> <strong>This is</strong> the greatest website ever because I made it :).</i></u></p>
