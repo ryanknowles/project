@@ -9,8 +9,7 @@
 <p><u><i> <strong>This is</strong> the greatest website ever because I made it :).</i></u></p>
 <h2> Filling up some space. </h2>
 <p> HTML is used to create the basics of websites such as this text, titles and pictures. </p>
-<h3> Info: </h3>
-<br>
+<h3> Info: </h3><br>
 <p> When writing words like the element of oxygen, some of the letters would have to be subscripted or superscripted. When something is superscripted it should look like <sup>this</sup>, and when something is subscripted is should look like <sub>this</sub>.</p>
 <h4> Some pictures </h4>
 <img src="http://www.kappit.com/img/pics/201603_1131_bfdcb_sm.png" alt="pepe has no more memes" style="width:750px;height:500px;">
