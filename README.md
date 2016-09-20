@@ -4,7 +4,7 @@
 </head>
 <body>
 <br><br><br>
-[![Alt text for your video](https://img.youtube.com/vi/8F9jXYOH2c0/0.jpg)](https://youtu.be/embed/8F9jXYOH2c0?rel=0&autoplay=1)
+[![Alt text for your video](https://img.youtube.com/vi/8F9jXYOH2c0/0.jpg)]src="https://youtu.be/embed/8F9jXYOH2c0"
 <p><b> This is my HTML file with <em>ALL</em>the necessary terms. </b></p>
 <h1> This is all done using HTML. </h1>
 <p><u><i> <strong>This is</strong> the greatest website ever because I made it :).</i></u></p>
