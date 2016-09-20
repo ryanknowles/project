@@ -4,7 +4,7 @@
 </head>
 <body>
 <br><br><br><br><br><br><br><br>
-<iframe width="420" height="345" src="https://www.youtube.com/embed/XGSy3_Czz8k">
+<iframe width="1080" height="720"src="https://www.youtube.com/embed/XGSy3_Czz8k">
 </iframe>
 <p><b> This is my HTML file with <em>ALL</em>the necessary terms. </b></p>
 <h1> This is all done using HTML. </h1>
