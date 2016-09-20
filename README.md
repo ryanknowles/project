@@ -4,9 +4,7 @@
 <title> BEST WEBSITE </title>
 </head>
 <body>
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/XGSy3_Czz8k?autoplay=1">
-</iframe> 
+<iframe width="420" height="315"src="https://www.youtube.com/embed/XGSy3_Czz8k?autoplay=1"></iframe> 
 <p><b> This is my HTML file with <em>ALL</em>the necessary terms. </b></p>
 <h1> This is all done using HTML. </h1>
 <p><u><i> <strong>This is</strong> the greatest website ever because I made it :).</i></u></b></p>
