@@ -67,6 +67,7 @@
   <tr>
 </table>
 
+<!-- This is a great comment -->
 
 <div style="color:#0000FF">
   <p>This is some text in a div element.</p>
