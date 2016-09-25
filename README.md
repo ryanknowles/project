@@ -35,7 +35,7 @@
 
 <table>
   <tr>
-    <th>Compagne</th>
+    <th>Company</th>
     <th>Model</th>
     <th>Price</th>
   </tr>
