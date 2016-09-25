@@ -18,19 +18,19 @@
 <hr>
 
 <h5> Name of cars </h5>
-
+<p>all cars in my favourite cars all have the same criteria:
 <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>Fast</li>
+  <li>Cool and flashy</li>
+  <li>Expensive</li>
 </ul>
-
+<p> these cars are : </p>
 <ol>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-  <li>mmm</li>
-  <li>nnn</li>
+  <li>One:1</li>
+  <li>Veyron</li>
+  <li>LaFerrari</li>
+  <li>Pagani</li>
+  <li>sesto elemento</li>
 </ol>
 
 <table>
