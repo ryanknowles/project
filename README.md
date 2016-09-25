@@ -68,6 +68,11 @@
 </table>
 
 
+<div style="background-color:black;color:yellow;padding:20px;">
+  <p>London is the capital city of England. It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
+  <p>Standing on the River Thames, London has been a major settlement for two millennia, its history going back to its founding by the Romans, who named it Londinium.</p>
+</div>
+
 <br>
 <p><small> This text should be smaller than the others. </small></p>
 <p> Deletes can be very usefull when using HTML because it can show the edits made to a file. Am sample would be: Motorcycles are so much <del>worse</del> <ins>better</ins> than cars!</p>
