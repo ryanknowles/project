@@ -76,6 +76,6 @@
 
 <br>
 <p><small> This text should be smaller than the others. </small></p>
-<p> I don't like Mercedes because they are made to look nice but they can't even fulfill their purpose. They are for <del>rich dudes that like amazing</del> <ins>and are still overpriced </ins> cars !</p>
+<p> I don't like Mercedes because they are made to look nice but they can't even fulfill their purpose. They are <del>for rich dudes that like amazing</del> <ins> overpriced and look like they came out of an aluminum factory. They are horrible</ins> cars !</p>
 </body>
 </html>
