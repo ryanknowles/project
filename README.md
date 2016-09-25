@@ -16,7 +16,21 @@
 <img src="http://www.kappit.com/img/pics/201603_1131_bfdcb_sm.png" alt="pepe has no more memes" style="width:750px;height:500px;">
 <p><big> Pepe has no more memes </big></p>
 <hr>
-<h5> HEADER </h5>
+
+<h5> Name of cars </h5>
+
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
+
+<ol>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>
+
 <br>
 <p><small> This text should be smaller than the others. </small></p>
 <p> Deletes can be very usefull when using HTML because it can show the edits made to a file. Am sample would be: Motorcycles are so much <del>worse</del> <ins>better</ins> than cars!</p>
