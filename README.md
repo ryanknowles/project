@@ -18,7 +18,7 @@
 <hr>
 
 <h5> Name of cars </h5>
-<p>all cars in my favourite cars all have the same criteria:
+<p>all cars that are my favourites all have the same criteria:
 <ul>
   <li>Fast</li>
   <li>Cool and flashy</li>
@@ -30,7 +30,7 @@
   <li>Veyron</li>
   <li>LaFerrari</li>
   <li>Pagani</li>
-  <li>sesto elemento</li>
+  <li>Sesto Elemento</li>
 </ol>
 
 <table>
