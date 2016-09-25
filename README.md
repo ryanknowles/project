@@ -11,7 +11,7 @@
 <h2> This website will be going over the fast and cool cars. </h2>
 <p> That means there won't be any ugly Bentleys or Mercedes in here cause they aren't cool enough. </p>
 <h3> Info: </h3><br>
-<p> The only car companies that are able to meet this criteria is Koenigsegg, Lamborghini, Bougatti, Ferrari and Zhonda. These cars are very  <sup>flashy</sup> already, but all cars could look better with some lights <sub>under</sub> the car.</p>
+<p> The only car companies that are able to meet this criteria is Koenigsegg, Lamborghini, Bugatti, Ferrari and Zhonda. These cars are very  <sup>flashy</sup> already, but all cars could look better with some lights <sub>under</sub> the car.</p>
 <h4> Some pictures </h4>
 <img src="http://www.kappit.com/img/pics/201603_1131_bfdcb_sm.png" alt="pepe has no more memes" style="width:750px;height:500px;">
 <p><big> Pepe has no more memes </big></p>
@@ -40,14 +40,14 @@
     <th>Price</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>Bugatti</td>
+    <td>Veyron (2016)</td>
+    <td>$2.2million</td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>Ferrari</td>
+    <td>LaFerrari</td>
+    <td>1.7million</td>
   </tr>
   <tr>
     <td>Ernst Handel</td>
