@@ -24,7 +24,7 @@
   <li>Cool and flashy</li>
   <li>Expensive</li>
 </ul>
-<p> these cars are : </p>
+<p>The card in my garage right now: </p>
 <ol>
   <li>One:1</li>
   <li>Veyron</li>
@@ -47,22 +47,22 @@
   <tr>
     <td>Ferrari</td>
     <td>LaFerrari</td>
-    <td>1.7million</td>
+    <td>$1.7million</td>
   </tr>
   <tr>
-    <td>Ernst Handel</td>
-    <td>Roland Mendel</td>
-    <td>Austria</td>
+    <td>Lamborghini</td>
+    <td>Sesto Elemento</td>
+    <td>$2.2million</td>
   </tr>
   <tr>
-    <td>Island Trading</td>
-    <td>Helen Bennett</td>
-    <td>UK</td>
+    <td>Zhonda</td>
+    <td>Pagani R</td>
+    <td>$2.8 million</td>
   </tr>
   <tr>
-    <td>Laughing Bacchus Winecellars</td>
-    <td>Yoshi Tannamuri</td>
-    <td>Canada</td>
+    <td>Koenisegg</td>
+    <td>One:1</td>
+    <td>$2.4million</td>
   </tr>
   <tr>
 </table>
@@ -76,6 +76,6 @@
 
 <br>
 <p><small> This text should be smaller than the others. </small></p>
-<p> Deletes can be very usefull when using HTML because it can show the edits made to a file. Am sample would be: Motorcycles are so much <del>worse</del> <ins>better</ins> than cars!</p>
+<p> I don't like Mercedes because they are made to look nice but they can't even fulfill their purpose. They are for <del>rich dudes that like amazing</del> <ins>and are still overpriced </ins> cars !</p>
 </body>
 </html>
