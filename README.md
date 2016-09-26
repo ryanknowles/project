@@ -18,13 +18,13 @@
 <hr>
 
 <h5> Name of cars </h5>
-<p>all cars that are my favourites all have the same criteria:
+<p>All cars that are my favourites all have the same criteria:
 <ul>
   <li>Fast</li>
   <li>Cool and flashy</li>
   <li>Expensive</li>
 </ul>
-<p>The card in my garage right now: </p>
+<p>The cars in my garage right now: </p>
 <ol>
   <li>One:1</li>
   <li>Veyron</li>
