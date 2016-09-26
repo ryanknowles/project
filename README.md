@@ -76,8 +76,8 @@
 
 <!-- This is a great comment -->
 
-<div style="color:#0000FF">
-  <p>This is some text in a div element.</p>
+<div style="background-color:black;color:white;padding:20px;">
+<p> This is some text in div </p>
 </div>
 
 
