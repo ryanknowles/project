@@ -67,6 +67,14 @@
   <tr>
 </table>
 
+<p> Here are the cars in the order of the table: </p>
+
+<img src="http://assets.bugatti.com/fileadmin/user_upload/Web/Pages/Models/Super_Sport/BUG_super_sport_02.jpg" alt="Car1" style="width:500px;height:500px;">
+<img src="http://fullhdpictures.com/wp-content/uploads/2015/04/Wonderful-Ferrari-LaFerrari-Wallpapers.jpg" alt="Car2" style="width:500px;height:500px;">
+<img src="http://gtspirit.com/wp-content/uploads/2014/05/Sesto-Elemento-1.jpg" alt="Car3" style="width:500px;height:500px;">
+<img src="http://www.carspynews.net/wp-content/uploads/2015/05/2009-pagani-zonda-r-3.jpg" alt="Car4" style="width:500px;height:500px;">
+<img src="http://i.kinja-img.com/gawker-media/image/upload/19gzy2dffk9mmjpg.jpg" alt="Car5" style="width:500px;height:500px;">
+
 <!-- This is a great comment -->
 
 <div style="color:#0000FF">
