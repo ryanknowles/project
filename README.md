@@ -10,6 +10,15 @@ body {
 </head>
 <body>
 
+<form action="action_page.php">
+  First name:<br>
+  <input type="text" name="Name" value="Username">
+  <br>
+  Last name:<br>
+  <input type="text" name="Password" value="Password">
+  <br><br>
+  <input type="submit" value="Submit">
+</form>
 
 <br><br><br>
 <p><b> This is my HTML file that mentions all the <em>BEST</em> cars in the world. </b></p>
