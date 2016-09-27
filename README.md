@@ -108,5 +108,11 @@ body {
   <input type="submit" value="Submit">
 </form>
 
+<p> To avoid spam of how much this website inspired you, please tell us if you are:
+<form action="">
+  <input type="radio" name="gender" value="Machine"> Robot<br>
+  <input type="radio" name="gender" value="People"> Person<br>
+</form>
+
 </body>
 </html>
